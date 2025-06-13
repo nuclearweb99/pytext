@@ -1,0 +1,7 @@
+PyText Help:
+
+:save {filename} | saves a file with the filename
+:load {filename} | loads a file with a filename
+:new | makes a new file
+:config | opens the config menu
+

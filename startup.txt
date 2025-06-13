@@ -1,0 +1,14 @@
+ ____       _____         _   
+|  _ \ _   |_   _|____  _| |_ 
+| |_) | | | || |/ _ \ \/ / __|
+|  __/| |_| || |  __/>  <| |_ 
+|_|    \__, ||_|\___/_/\_\\__|
+       |___/                  
+
+A free python text editor and IDE.
+
+Need help? Press CTRL+T and type ":help"
+Want to start a new file? Press CTRL+T and type ":new"
+Want to load a new file? Press CTRL+T and type ":load", followed by the filename.
+
+Happy coding!
